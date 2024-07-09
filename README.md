@@ -6,6 +6,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2daddf3c-add4-4a2b-880d-064be6821c92/dglksej-3ed5f398-b5c8-4d98-b908-43438b2964f2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJkYWRkZjNjLWFkZDQtNGEyYi04ODBkLTA2NGJlNjgyMWM5MlwvZGdsa3Nlai0zZWQ1ZjM5OC1iNWM4LTRkOTgtYjkwOC00MzQzOGIyOTY0ZjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bxIHtLdJMge5rLi2vf8I4OD6fJr5XSKJXUHbofhWDT8"  />
+</div>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
@@ -53,12 +59,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2daddf3c-add4-4a2b-880d-064be6821c92/dglksej-3ed5f398-b5c8-4d98-b908-43438b2964f2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJkYWRkZjNjLWFkZDQtNGEyYi04ODBkLTA2NGJlNjgyMWM5MlwvZGdsa3Nlai0zZWQ1ZjM5OC1iNWM4LTRkOTgtYjkwOC00MzQzOGIyOTY0ZjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bxIHtLdJMge5rLi2vf8I4OD6fJr5XSKJXUHbofhWDT8"  />
 </div>
 
 ###
